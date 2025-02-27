@@ -1,4 +1,4 @@
-# My Real-Time Quality Monitoring Project
+# ProcessIQ - Stanford Hackathon 2024
 
 This repository contains the entire codebase for a real-time manufacturing quality monitoring system. 
 
