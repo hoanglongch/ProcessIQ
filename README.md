@@ -1,4 +1,4 @@
-# ProcessIQ - Stanford Hackathon
+# ProcessIQ
 
 This repository contains the entire codebase for a real-time manufacturing quality monitoring system. 
 
